@@ -1,0 +1,51 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Camilo De La Torre
+  given: Camilo
+  family: De La Torre
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "🎓"
+role: Final-year PhD Student in Machine Learning and Genetic Programming
+bio: |
+  I am from Ecuador and have been living in France since 2015. I studied
+  economics, sociology, and computer science, completing a master's degree in
+  each field before starting my PhD.
+
+  I am currently in the third year of my PhD, supervised by Sylvain
+  Cussat-Blanc, Dennis Wilson, and Hervé Luga. My doctoral work focuses on
+  developing a type-aware extension of Cartesian Genetic Programming, with
+  applications to program synthesis, game playing, and image classification.
+
+  More recently, I have been exploring the intersection of deep learning and
+  genetic programming, with the goal of improving GP systems to approach deep
+  learning performance while remaining interpretable.
+
+affiliations:
+  - name: Universite Toulouse Capitole
+    url: ''
+  - name: Institut de Recherche en Informatique de Toulouse (IRIT)
+    url: ''
+
+links:
+  - icon: at-symbol
+    url: mailto:dlt.camilo@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/camilodlt
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/delatorre-camilo/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=b7ZpuzkAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0005-2354-5702
+
+interests:
+  - Machine Learning
+  - Genetic Programming
+  - Evolutionary Computation
